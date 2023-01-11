@@ -2,10 +2,28 @@ h1.gener{
     text-align: center;
     font-weight: bold;
 }
+div.groc{
+    background-color: yellow;
+    color: yellow;
+    width: 33%;
+    height: 100px;
+    display: inline-block;    
 
-
-
-
+}
+div.blau{
+    background-color: blue;
+    color: blue;
+    width: 33%;
+    display: inline-block;
+    height: 100px;
+}
+div.groc{
+    background-color: red;
+    color: red;
+    width: 33%;
+    display: inline-block;
+    height: 100px;
+}
 
 
 
