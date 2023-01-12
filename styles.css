@@ -2,6 +2,9 @@ h1.gener{
     text-align: center;
     font-weight: bold;
 }
+#div{
+    display: inline-block;
+}
 div.groc{
     background-color: yellow;
     height: 2cm;
