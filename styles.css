@@ -25,7 +25,10 @@ div.roig{
     width: 8cm;
     display: inline-block;
 }
-
+div.abajo{
+    background-color: green;
+    display: block;
+}
 
 
 
