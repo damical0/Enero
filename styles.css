@@ -2,27 +2,25 @@ h1.gener{
     text-align: center;
     font-weight: bold;
 }
-#div{
-    display: inline-block;
-}
 div.groc{
     background-color: yellow;
-    color: yellow;
-    width: 33%;
-    height: 100px;
-
+    height: 2cm;
+    width: 8cm;
+    display: inline-block;
 }
+
 div.blau{
     background-color: blue;
-    color: blue;
-    width: 33%;
-    height: 100px;
+    height: 2cm;
+    width: 8cm;
+    display: inline-block;
 }
-div.groc{
+
+div.roig{
     background-color: red;
-    color: red;
-    width: 33%;
-    height: 100px;
+    height: 2cm;
+    width: 8cm;
+    display: inline-block;
 }
 
 
