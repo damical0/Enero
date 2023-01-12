@@ -30,6 +30,8 @@ div.abajo{
     display: block;
     width: 100%;
 }
-
+span.estudiar{
+    text-decoration: underline;
+}
 
 
