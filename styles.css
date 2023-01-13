@@ -25,7 +25,11 @@ div.roig{
     width: 8cm;
     display: inline-block;
 }
-div.abajo{
+div.footer{
+    background-color: green;
+}
+
+p.abajo{
     background-color: green;
     display: block;
     width: 100%;
