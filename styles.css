@@ -8,21 +8,21 @@ h1.gener{
 div.groc{
     background-color: yellow;
     height: 2cm;
-    width: 8cm;
+    width: 33%;
     display: inline-block;
 }
 
 div.blau{
     background-color: blue;
     height: 2cm;
-    width: 8cm;
+    width: 33%;
     display: inline-block;
 }
 
 div.roig{
     background-color: red;
     height: 2cm;
-    width: 8cm;
+    width: 33%;
     display: inline-block;
 }
 div.footer{
