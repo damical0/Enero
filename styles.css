@@ -27,6 +27,7 @@ div.roig{
 }
 div.footer{
     background-color: green;
+    display: block;
 }
 
 p.abajo{
